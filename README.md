@@ -1,6 +1,6 @@
 ### Hey there
 
-I am a Full Stack Developer at <img alt="UBS" style='vertical-align:middle; height:40px' src="https://www.vectorlogo.zone/logos/ubs/ubs-ar21.svg" /> <br/>
+I am a Full Stack Developer at <img alt="UBS" style="vertical-align:middle; height:40px" src="https://www.vectorlogo.zone/logos/ubs/ubs-ar21.svg" /> <br/>
 
 Incoming Graduate Student at USC ✌🏼
 
