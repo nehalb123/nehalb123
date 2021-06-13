@@ -1,6 +1,6 @@
 ### Hey there
 
-- I am a Full Stack Developer at [<img alt="UBS" width="22px" src="https://www.vectorlogo.zone/logos/ubs/ubs-ar21.svg" />]
+- I am a Full Stack Developer at <img alt="UBS" width="22px" src="https://www.vectorlogo.zone/logos/ubs/ubs-ar21.svg" />
 - Incoming Graduate Student at USC ✌🏼
 
 What keeps me motivated: “If you only do what you can do, you will never be more than you are now.” ― Master Oogway 🐢
