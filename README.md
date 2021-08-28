@@ -3,7 +3,7 @@
 
 I am a Full Stack Developer at <img alt="UBS" align="center" height="40px" src="https://www.vectorlogo.zone/logos/ubs/ubs-ar21.svg" /> <br/>
 
-Incoming Graduate Student at USC ✌🏼
+Graduate Student at USC ✌🏼
 
 What keeps me motivated: “If you only do what you can do, you will never be more than you are now.” ― Master Oogway 🐢
 
